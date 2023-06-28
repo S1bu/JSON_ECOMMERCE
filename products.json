@@ -1,0 +1,42 @@
+ {"products" : [
+{
+"id" : 1,
+"Brand" : "Nike",
+"Title" : "Nike air max",
+"Price" : "1000",
+"Description" : "White shoe",
+"image" : "https://i.postimg.cc/KcqTsSxw/air-max-white.jpg"
+},
+{
+"id" : 2,
+"Brand" : "Puma",
+"Title" : "Puma suede",
+"Price" : "1000",
+"Description" : "Lightblue and black",
+"image" : "https://i.postimg.cc/1XjNg6vs/puma-light-blue-sw-uede.jpg"
+},
+{
+"id" : 3,
+"Brand" : "Adidas",
+"Title" : "Adidas sneaker",
+"Price" : "1000",
+"Description" : "white and green",
+"image" : "https://i.postimg.cc/Bb6KQNcm/adidas-trainer.jpg"
+},
+{
+"id" : 4,
+"Brand" : "Nike",
+"Title" : "Nike airforce 1",
+"Price" : "1200",
+"Description" : "White(80%), black(10%) and caramel(10%)",
+"image" : "https://i.postimg.cc/DZ5GTRsW-/nike-airforce-1-white.jpg"
+},
+{
+"id" : 5,
+"Brand" : "Nike",
+"Title" : "Nike Jordan",
+"Price" : "1000",
+"Description" : "HIghtop Black and white",
+"image" : "https://i.postimg.cc/WbdkBW43/nike-jordan-black-and-white.jpg"
+}
+ ]}
