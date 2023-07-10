@@ -38,5 +38,13 @@
 "Price" : "1000",
 "Description" : "HIghtop Black and white",
 "image" : "https://i.postimg.cc/WbdkBW43/nike-jordan-black-and-white.jpg"
+},
+{
+"id" : 6,
+"Brand" : "Nike",
+"Title" : "Nike airforce one",
+"Price" : "1000",
+"Description" : "HIghtop white with custom colors",
+"image" : "https://i.postimg.cc/13JjF0yX/shoe16.jpg"
 }
  ]}
